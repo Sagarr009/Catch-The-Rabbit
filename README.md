@@ -1,6 +1,6 @@
 # Catch The Rabbit
 
-A fun and interactive game where the player tries to catch the rabbit. Designed to test reflexes, improve reaction time, and enjoy a simple yet engaging gameplay experience.
+A fun and interactive game using javascript.
 ---
 
 ## Features
